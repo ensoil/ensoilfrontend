@@ -1,5 +1,7 @@
 @import "@fontsource/montserrat";
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /*.projects-bg {
   background: var(--color-white);

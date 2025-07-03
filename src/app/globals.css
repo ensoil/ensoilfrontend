@@ -1,6 +1,7 @@
 @import "@fontsource/montserrat";
-@import "tailwindcss";
-
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   --background: #FDFDFD;

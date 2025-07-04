@@ -8,13 +8,13 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAXoWLzdazktpc8XQsVDmP8q98cf7F4NEo",
-  authDomain: "capstone-ensoil.firebaseapp.com",
-  projectId: "capstone-ensoil",
-  storageBucket: "capstone-ensoil.firebasestorage.app",
-  messagingSenderId: "33847895492",
-  appId: "1:33847895492:web:5cb60c8a8bd9e6e03d7091",
-  measurementId: "G-EV5TZ5S4YK"
+  apiKey: "AIzaSyDYXI5hdZ-3YOugijla4vveuex9RxKyY64",
+  authDomain: "capstone-ensoil-letsgoo.firebaseapp.com",
+  projectId: "capstone-ensoil-letsgoo",
+  storageBucket: "capstone-ensoil-letsgoo.firebasestorage.app",
+  messagingSenderId: "171253533297",
+  appId: "1:171253533297:web:16b263a12e3fd5efb8a9d0",
+  measurementId: "G-T8QSYH76J3"
 };
 
 // Initialize Firebase
